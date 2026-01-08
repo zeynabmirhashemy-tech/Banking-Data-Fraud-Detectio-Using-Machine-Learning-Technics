@@ -1,0 +1,2 @@
+# Banking-Data-Fraud-Detectio-Using-Machine-Learning-Technics
+This repository contains the source code for my Bachelor's thesis at Amirkabir University of Technology. The project focuses on identifying illicit financial transactions within the BankSim dataset. Given the highly imbalanced nature of fraud data, the system implements rigorous preprocessing and resampling strategies to train robust classifiers.
